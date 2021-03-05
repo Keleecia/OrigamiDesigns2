@@ -1,0 +1,29 @@
+.Texts1{
+
+    align-items: center;
+    display:flex;
+
+ 
+    margin: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+   
+    border-radius: 100px;
+    background-color: rgb(182, 194, 206);
+    width: 900px;; 
+}
+
+.Texts2{
+    align-items: center;
+    margin: auto;
+    display: flex;
+
+    flex-direction: column;
+    border-radius:8px;
+    background-color: white;
+  
+}
+.theTop{
+font-family: cursive;
+color: blanchedalmond;
+}
